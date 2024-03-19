@@ -1,6 +1,6 @@
-<h2> Applying Linear Rgression Model on Car Dataset With getting high accuracy</h2>
+<h1> Applying Linear Rgression Model on Car Dataset With getting high accuracy</h1>
 
-<h6>Here, I would like to discribe what tasks I have done to achieve the results.</h6>
+<h4>Here, I would like to discribe what tasks I have done to achieve the results.</h4>
 <p>1. Data Exploration </p>
 <p>2. Data Preparation for the Model </p>
 <p>3. Applied Linear Regression with cross validation (K Fold)   </p>
