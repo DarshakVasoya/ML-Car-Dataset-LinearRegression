@@ -1,4 +1,4 @@
-<h1> Applying Linear Rgression Model on Car Dataset With getting with 96% accuracy</h1>
+<h1> Applying Linear Rgression Model on Car Dataset With getting 96% accuracy</h1>
 
 <h4>Here, I would like to discribe what tasks I have done to achieve the results.</h4>
 <p>1. Data Exploration </p>
